@@ -1,6 +1,6 @@
 {
   "name": "releaser",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "description": "Test repo for zeit release package",
   "main": "index.js",
   "scripts": {
