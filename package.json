@@ -1,0 +1,23 @@
+{
+  "name": "releaser",
+  "version": "1.0.0",
+  "description": "Test repo for zeit release package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpfeil/releaser.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mpfeil/releaser/issues"
+  },
+  "homepage": "https://github.com/mpfeil/releaser#readme",
+  "devDependencies": {
+    "release": "^6.0.0"
+  }
+}
